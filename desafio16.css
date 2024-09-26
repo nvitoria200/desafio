@@ -1,0 +1,5 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(90deg,#439bb6 0%, #d1339c 100%);
+}
