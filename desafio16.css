@@ -1,18 +1,19 @@
-body{
+body {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(90deg,#439bb6 0%, #d1339c 100%);
+    background: linear-gradient(90deg, #439bb6 0%, #d1339c 100%);
     display: flex;
-    justify-contet: center;
+    justify-content: center;
     align-items: center;
 }
 
-.tela{
-background-color:#fafafa;
-border-radius:10px;
-box-shadow:0 2px 5px rgb(244,248,6);
-width: 400pX:
-max-width: 100%;
-overflow: hidden;
-padding: 20px;
+.tela {
+    
+    background-color: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(224, 248, 6);
+    width: 400px;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 20px;
 }
