@@ -1,6 +1,6 @@
 
 body {
-    background: linear-gradient(to bottom right, rgb(209, 114, 212), rgb(255, 0, 221));
+    background: linear-gradient(to bottom right, rgb(209, 114, 212), rgb(128, 39, 116));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,5 +39,5 @@ button {
 }
 
 button:hover {
-    background-color: #f1b535; /* Verde mais escuro */
+    background-color: #f1357d; /* Verde mais escuro */
 }
